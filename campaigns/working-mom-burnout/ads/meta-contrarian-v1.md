@@ -7,7 +7,7 @@ date: 2026-08-23
 status: draft
 ---
 
-# Meta — Variant 1 (contrarian)
+# Meta — Variant 1 (contrarian) — PRIMARY, matches the landing page
 
 **Primary text (first 118 chars visible):**
 Stop trying to picture your ideal life. You're too tired to invent one. Start with the twenty things you can't stand — they'll tell you more in ten minutes than a vision board has in ten years.
@@ -20,7 +20,7 @@ Thirty complaints collapse into six real reasons. Three of them you can change b
 
 ---
 
-# Meta — Variant 2 (direct benefit)
+# Meta — Variant 2 (direct benefit) — challenger
 
 **Primary text:**
 "I'm just exhausted" is not a problem you can solve. "I never get one uninterrupted hour" is.
@@ -33,7 +33,7 @@ Thirty complaints collapse into six real reasons. Three of them you can change b
 
 ---
 
-# Meta — Variant 3 (story)
+# Meta — Variant 3 (story) — challenger
 
 **Primary text:**
 I wrote down thirty things I hated about my week, expecting a mess.

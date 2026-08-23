@@ -2,222 +2,200 @@
 type: landing-page
 campaign: working-mom-burnout
 target_audience: Employed mothers, roughly 30-45, burned out, high-functioning, no time
-positioning_angle: Burnout isn't an emotion to manage — it's a list of specific mechanisms you can name and change
+positioning_angle: "Stop trying to figure out what you want" — attacks the vision-first premise of all mainstream burnout advice
 awareness_level: problem-aware
-variant: control
+variant: contrarian
 platform: web
-word_count: 1180
+word_count: 1290
 date: 2026-08-23
 status: draft
-score: 52/70
+score: 47/70
 ---
 
-# VARIANT A — CONTROL
+# THE PRIMARY PAGE — CONTRARIAN
+
+> Control version kept as challenger in `landing-page-control.md`.
+> Everything in [BRACKETS] is a placeholder you must fill with something true.
+
+---
 
 ## Hero
 
 **Headline:**
-In 45 minutes, you'll know the six things actually draining you. Not "balance." Six specific things.
+# Stop trying to figure out what you want.
 
 **Subhead:**
-Most burnout advice hands you a bath and a gratitude journal. This hands you a list — the exact mechanisms wearing you down, ranked by how often they hit, with three you can change by Friday.
+You've been asked "so what would actually make you happy?" a hundred times, and you've never once had an answer. That isn't a personal failing. It's the wrong question. Ask what you can't stand and you'll answer in ten minutes flat.
 
-**CTA:** Show me the six things →
-*Free. 45 minutes. Nothing to download, no one to talk to.*
+**CTA:** Ask me the right question →
+
+*45 minutes. Free. Nothing to download.*
 
 ---
 
 ## Problem
 
-Here's the part nobody says out loud.
+Every burnout resource on earth opens the same way. Picture your ideal life.
 
-You're not burned out because you're doing too much. You know moms doing more than you who seem fine. You're burned out because a handful of specific things grind on you every single day, and you've never once sat down and named them.
+And you go blank.
 
-So instead you name the feeling. *Overwhelmed. Stretched thin. Not myself lately.*
+Or worse — you produce something borrowed. A beach. A quieter kitchen. A version of yourself who does yoga and doesn't check email at traffic lights. You know it isn't true while you're writing it. So nothing changes, and now you've added *"can't even figure out what I want"* to the pile of things you're failing at.
 
-And you can't fix a feeling. You can only fix a mechanism.
+Here's what's actually happening.
+
+You're being asked to invent a life out of thin air, at 9pm, on four hours of sleep, using the exact part of your brain that's been running on empty since March.
+
+But ask you what drained you last Tuesday?
+
+You'll give me twenty things before your tea goes cold.
 
 ---
 
 ## Agitate
 
-Do the math with me.
+Same brain. Same hour. Completely different result.
 
-Think of one small thing that irritates you — the 2:45 pickup that cuts your only focused hour in half. Say it costs you six minutes of frustration and twenty minutes of lost momentum.
+That gap is the whole reason this advice keeps bouncing off you. It insists on the question you can't answer and skips right past the one you can.
 
-That's roughly 26 minutes. Four times a week. Every week of the school year.
+**And the question you can answer is sitting on better data.**
 
-**That's about 70 hours a year. On one item. That you've never named.**
+A vision is a guess about a life you've never lived. Friction is a record of the one you're living right now. One is fiction. The other is evidence — and you've got more of it than almost anyone, because you've spent years absorbing small daily costs and filing them under "normal."
 
-Now count the other five.
+Not under "data." Under "complaining." Which is why you've never been allowed to use them.
 
-This is why the spa day doesn't work. You come home rested to the exact same 70 hours.
+Let's use them.
 
 ---
 
 ## Credibility
 
-[FOUNDER STORY — replace this block]
+[FOUNDER STORY — replace this whole block. Non-negotiable, highest-trust element on the page.]
 
-Use the real arc: where you were, the specific breaking moment, what you tried that didn't work, and the run of this process that changed something concrete. Include one number a skeptical reader can hold onto — hours reclaimed, the thing you quit, the specific week it changed.
+The arc that works: where you were → the specific moment it broke → what you tried that didn't work (name it; naming the thing that failed you is what makes her trust the thing that didn't) → the run of this process → one concrete number or change.
 
-Structure: vulnerability → credibility → shared journey. Do not skip the vulnerability. It's the whole reason she keeps reading.
+For this variant specifically, lead with the vision-board failure. Something like: *"I did the vision board. Twice. I still have it in a drawer."* That's the credential this page needs — not that you're an expert, but that you failed at the thing she's currently failing at.
 
 ---
 
 ## Solution
 
-It's five steps. Three of them are hard, two are fast.
+So we go backwards. Twenty things you can't stand at the start, six sentences about what you actually want by the end. Not aspirational ones. Ones with receipts.
 
-**1. Dump the friction. (10 min, timer on.)**
-Twenty to thirty things that made you tense, drained, or resentful in the last month. No editing. Bad items are fine — you cut later.
+Five steps. Three are hard, two are fast.
 
-**2. Find the mechanism. (15 min.)**
-This is the whole thing. The complaint is never the problem.
+### 1. Dump the friction — 10 minutes, timer on
 
-*"I dread bedtime"* isn't about bedtime. Ask why three times and you get: the only hour that belongs to me arrives when I have nothing left to spend on it.
+Everything from the last month that made you tense, drained, resentful, or bored. Twenty to thirty items. No full sentences. No editing.
 
-That's a mechanism. And unlike "I'm exhausted," it has an obvious fix.
+And don't be fair to anyone. Fairness is the thing that's kept this list in your head instead of on paper for the last three years.
 
-Thirty items usually collapse into six or seven mechanisms. That collapse is the moment most people describe as the lights coming on.
+### 2. Find the mechanism — 15 minutes
 
-**3. Flip it. (10 min.)**
-Every mechanism has a positive form, and because it came from evidence instead of a vision board, it's actually yours.
+This is the whole thing. Everything else is bookkeeping.
 
-*"My week is shaped by whatever lands in my inbox"* → *I decide what my week is about before it starts.*
+The complaint is never the problem. Take any item and ask why it bothers you. Three times.
 
-**4. Make it checkable by Friday. (5 min.)**
+> *"I dread bedtime."*
+> Why? Because it's the end of the day.
+> Why does that bother me? Because the hour that's supposed to be mine starts when I'm already empty.
+> Why does **that** bother me? Because I only ever get myself when there's nothing left of me to have.
+
+That last sentence is a mechanism.
+
+Notice what just happened. That's not a bedtime problem. It's a *when* problem. And a when-problem has an obvious fix, which "I'm exhausted" is never going to have.
+
+Thirty items collapse into six or seven of these. Most people describe that collapse as the moment the lights came on.
+
+### 3. Flip it — 10 minutes
+
+Every mechanism has a positive form. And because it came from evidence instead of a Pinterest board, it's actually yours.
+
+> *"My week is shaped by whatever lands in my inbox"* → **I decide what my week is about before it starts.**
+
+Careful here: flip the mechanism, not the complaint. "I hate school pickup" doesn't invert to "no school pickup." It inverts to "my focused hours don't sit next to a hard interrupt."
+
+### 4. Make it checkable by Friday — 5 minutes
+
 Not "more balance." Balance isn't a thing you can check.
 
-*By Sunday 6pm, three outcomes for the week are written down. Monday morning goes to the first one before I open email.*
+> **By Sunday 6pm, three outcomes for the week are written down. Monday morning goes to the first one before I open email.**
 
-True or false. No wiggle room.
+True or false. No wiggle room. If you can't tell on Friday whether it happened, it's still too vague — rewrite it.
 
-**5. Rank by frequency, not intensity. (5 min.)**
-This is where everyone gets it wrong. The thing that wrecks you twice a year feels enormous. The thing that costs you 26 minutes four times a week is invisible — and it's costing more.
+### 5. Rank by frequency, not intensity — 5 minutes
 
-Take the top three. Everything else goes in a parking lot you're not allowed to touch until next month.
+Here's where everyone gets it wrong, and it's the single most useful line in this whole thing:
+
+**The thing that wrecks you twice a year feels enormous. The thing that costs you twenty minutes four times a week is invisible — and it's costing you far more.**
+
+You've been triaging by what screams loudest. That's why the real one has been sitting in your blind spot since 2023.
+
+Take the top three. Everything else goes in a parking lot and you're not allowed to touch it until next month — at which point most of it will have quietly resolved itself, because it was downstream of one of the three.
 
 Three changes. That's the whole month.
 
 ---
 
+## The reframe
+
+The most valuable thing this gives you isn't the list.
+
+It's that **"I'm exhausted" becomes "I never get one uninterrupted hour."**
+
+One of those is a personality problem you carry around for the next twenty years. The other is a scheduling problem you can solve in a week.
+
+That's the entire trick. Turn a feeling into a mechanism, and it stops being who you are.
+
+---
+
 ## Proof
 
-[PROOF — replace all three]
+[PROOF — three, replace all]
 
-Format each one as: where she was → what she did → the specific outcome → how long it took → how it felt.
+Structure each: where she was → what she actually did → the specific outcome → the timeframe → how it felt.
 
-Weak: "This really helped me!"
-Strong: "My number one mechanism was that I never got a single uninterrupted hour. Three weeks later I have Tuesday and Thursday mornings blocked and my husband does drop-off. I didn't need a vacation. I needed two mornings."
+Weak: *"This really helped me!"* — worth nothing.
+Strong: *"My top mechanism was that I never got one uninterrupted hour. Three weeks later I've got Tuesday and Thursday mornings blocked and my husband does drop-off. Turns out I didn't need a vacation. I needed two mornings."*
 
-If you don't have three yet, run it free with five women this month and ask for exactly that structure. One real one beats ten polished ones.
+Don't have them yet? Run it free with five women this month and ask for exactly that shape. One real one beats ten polished ones.
 
 ---
 
 ## Fit
 
 **This is for you if:**
-- ✅ You've read the burnout articles and nothing changed
+- ✅ You've read the burnout articles, agreed with all of them, and changed nothing
 - ✅ You can find 45 minutes once a month
-- ✅ You're willing to write down things you've been careful not to say
+- ✅ You're willing to write down things you've been careful not to say out loud
 
 **This isn't for you if:**
-- ❌ You want someone to tell you it's not your fault (it probably isn't — that also doesn't fix it)
-- ❌ You want a system to organize your life instead of change it
+- ❌ You want to be told none of it is your fault. It probably isn't. That also doesn't fix it.
+- ❌ You want a system to organize your life rather than change it
 - ❌ You're not willing to actually cancel the thing you find
 
 *"Couldn't I just journal about this myself?"*
-You could. You've had a journal for years. 🤷
+
+You could. You've had the journal for four years. 🤷
 
 ---
 
 ## Offer
 
-[OFFER — pick one and price it]
+[OFFER — decide and price]
 
-Free version: the process, self-guided. Email capture. This is the lead magnet.
-Paid version: [$X] — guided version, prompts that push you past the surface complaint at step 2, saved runs, and the monthly re-run that shows you which mechanisms never go away.
+**Free:** the process, self-guided. Email capture. This is the top of the funnel.
+**Paid — [$X]:** the guided version. Prompts that shove you past the surface complaint at step 2 (where everyone stalls), saved runs, and the monthly re-run.
 
-The re-run is the actual product. One run tells you what's wrong this month. Six runs tell you what's structural — and those are the ones worth rearranging your life around.
+Say this part plainly, because it's the actual product:
 
----
-
-## Final CTA
-
-**Start the friction dump →**
-
-*Free. 45 minutes. You'll have your six by tonight.*
-[PROOF: "Join [N] women who've run it."]
-
----
----
-
-# VARIANT B — CONTRARIAN
-
-## Hero
-
-**Headline:**
-Stop trying to figure out what you want.
-
-**Subhead:**
-You've been asked "what would make you happy?" a hundred times and you've never had an answer. That's not a personal failing — it's the wrong question. Start with what you can't stand. That one you can answer in ten minutes.
-
-**CTA:** Ask me the right question →
-
----
-
-## Problem
-
-Every burnout resource starts the same way: picture your ideal life.
-
-And you go blank. Or you produce something borrowed — a beach, a quieter kitchen, a version of yourself who does yoga. None of it is true and you know it, so nothing changes, and now you've added "can't even figure out what I want" to the pile.
-
-Here's what's actually happening. You're being asked to invent something out of nothing while running on four hours of sleep and someone else's calendar.
-
-But ask you what drained you last Tuesday? You'll give me twenty items without stopping to breathe.
-
-**That's not a lack of clarity. That's data. You've had it the whole time — it's just filed under complaining, so you've never let yourself use it.**
-
----
-
-## Agitate
-
-There's a reason the vision-board approach fails specifically for you.
-
-A vision is a guess about a life you haven't lived. Friction is a record of the one you're living right now. One is fiction. The other is evidence.
-
-And you have more evidence than almost anyone — because you've been absorbing small daily costs for years and calling it normal.
-
----
-
-## Solution
-
-Same five steps as Variant A — reuse that section verbatim.
-
-Lead-in line for this variant:
-"So we go backwards. Twenty things you can't stand, and by the end of the hour they turn into six sentences about what you actually want. Not aspirational ones. Ones with receipts."
-
----
-
-## Reframe (this variant's kicker — before the CTA)
-
-The most useful thing this does isn't the list.
-
-It's that "I'm exhausted" becomes "I never get one uninterrupted hour" — and one of those is a personality problem you'll carry forever, while the other is a scheduling problem you can solve in a week.
-
-That's the whole trick. Turn a feeling into a mechanism, and it stops being who you are.
+> One run tells you what's wrong this month. Six runs tell you what's **structural** — the mechanisms that show up every single time, no matter what changed. Those are the ones worth rearranging a life around.
 
 ---
 
 ## Final CTA
 
-**Give me twenty things you can't stand →**
-*45 minutes. You'll leave with three changes and permission to ignore everything else.*
+# Give me twenty things you can't stand →
 
----
---- Variant Notes ---
-Angle A: Control — pain quantification and process clarity. Straight down the middle.
-Angle B: Contrarian — attacks the "find your vision" premise directly.
-Best for: A works on problem-aware traffic from burnout/parenting content. B works better on cold social and on women who've already tried and quit two other approaches — the pattern interrupt earns the scroll.
-Recommended test: A vs B on the same ad set, measured on scroll depth first, opt-in second.
+*45 minutes. You'll leave with three changes — and permission to ignore everything else until next month.*
+
+[PROOF: "Run by [N] women so far."]

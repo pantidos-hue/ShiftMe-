@@ -2,7 +2,7 @@
 type: social
 campaign: working-mom-burnout
 platform: instagram
-variant: control
+variant: contrarian
 date: 2026-08-23
 status: draft
 ---

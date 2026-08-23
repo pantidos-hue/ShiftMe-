@@ -2,7 +2,7 @@
 type: email
 campaign: working-mom-burnout
 awareness_level: problem-aware
-variant: control
+variant: contrarian
 word_count: 310
 date: 2026-08-23
 status: draft
@@ -10,16 +10,16 @@ status: draft
 
 # Subject lines
 
-★ 4. is the pick.
+★ 5. is the pick — matched to the contrarian landing page.
 
 1. The six things (direct)
 2. Twenty things you can't stand — then what? (curiosity)
 3. I dreaded Sunday nights for two years (story)
-4. Why can you list what you hate but not what you want? ★ (question)
-5. Your burnout isn't a feeling. It's a schedule. (contrarian)
+4. Why can you list what you hate but not what you want? (question)
+5. Your burnout isn't a feeling. It's a schedule. ★ (contrarian)
 6. Ten minutes tonight, after they're down (personalized to her actual window)
 
-★ #4 — it names something she's noticed about herself and never had words for. That recognition is the open.
+★ #5 — it makes a claim she wants to argue with, which is the same reflex that gets it opened. Runner-up #4; keep it as the A/B challenger since it matches the page headline more literally.
 
 **Preview text:** One of those questions has an easy answer. Start there.
 
